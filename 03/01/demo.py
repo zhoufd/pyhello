@@ -5,3 +5,5 @@ print(a)                                    # 输出变量a的值100
 print(a*b)                                  # 输出 a*b的结果500
 print("go big or go home")                # 输出要么出众，要么出局“go big or go home”
 
+
+
