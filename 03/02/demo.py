@@ -1,0 +1,14 @@
+print('a')                                     # 输出字符a
+print(chr(97))                                 # 输出字符a
+print('A')                                     # 输出字符A
+print(chr(65))                                 # 输出字符A
+print('B')                                     # 输出字符B
+print(chr(66))                                 # 输出字符B
+print('+')                                     # 输出字符+
+print(chr(43))                                 # 输出字符+
+print(8)                                       # 输出字符8
+print(chr(56))                                 # 输出字符8
+print('[')                                     # 输出字符[
+print(chr(91))                                 # 输出字符[
+print(']')                                     # 输出字符]
+print(chr(93))                                 # 输出字符]
